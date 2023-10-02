@@ -1,0 +1,37 @@
+# Ignore Visual Studio files
+WhiteBoard1/.vscode/
+WhiteBoard2/.vscode/
+.vs/
+WhiteBoard1/.vs/
+WhiteBoard2/.vs/
+WhiteBoard1/WhiteBoard1/bin/
+WhiteBoard2/WhiteBoard2/bin/
+WhiteBoard1/WhiteBoard1/obj/
+WhiteBoard2/WhiteBoard2/obj/
+
+# Ignore NuGet packages
+packages/
+
+# Ignore user-specific files
+
+
+# Ignore build output
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Bb][Ii][Nn]/
+[Oo][Bb][Jj]/
+[Ll][Oo][Gg][Ss]/
+
+
+
+
+
+
+
+
